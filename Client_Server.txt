@@ -1,0 +1,8 @@
+Client-side
+Kompüter veb səhifə üçün istək göndərərək veb serverin məlumat üzərində işləməsini istəyir.
+Əgər məlumat PHP və ya oxşar dildədirsə, məlumat üzərində serverdə iş gedir. Nəticə
+kompüterə geri göndərilir.
+
+Server-side
+Əgər kompüterə gələn məlumat javascript və ya oxşar dildədirsə, brauzer həmin məlumat
+üzərində iş aparır. Sonra isə onu veb səhifə olaraq ekranda göstərir.
